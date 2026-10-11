@@ -1,0 +1,24 @@
+{
+  "manifest_version": "1.0",
+  "org": "psf",
+  "repo": "elections",
+  "versions": [
+    {
+      "commit": "68a6bfc25885bcaad627171c46fa6b65342ec527",
+      "parsed_at": "2026-10-11T07:57:02.876346+00:00",
+      "filetree": "filetree/68a6bfc25885bcaad627171c46fa6b65342ec527.nq.gz",
+      "blobs": [
+        "blob/a801d7974cf50371362d6eff0438e21376926acf.nq.gz",
+        "blob/afed0735dc96c6fc6a05ec52e959b8175f27cee5.nq.gz",
+        "blob/3b344e40dfcae9a7f7952b32bc1252b6c9fc6725.nq.gz",
+        "blob/284497495fd30a2fa57460b48f06bd1467b5ad31.nq.gz",
+        "blob/9728fa7faabb36a15789b7441c08b815862f73ee.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
